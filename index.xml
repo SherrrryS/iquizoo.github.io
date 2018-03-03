@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on 爱智游设计文档中心</title>
+    <link>/</link>
+    <description>Recent content in Home on 爱智游设计文档中心</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>反应转换（Shifting2）</title>
+      <link>/post/%E5%8F%8D%E5%BA%94%E8%BD%AC%E6%8D%A2shifting2/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E5%8F%8D%E5%BA%94%E8%BD%AC%E6%8D%A2shifting2/</guid>
+      <description>基本信息 显示名称：反应转换 英文名称：Shifting2 题目编号：03202 任务描述：测查思维力，特别是灵活切换思维方式的能力。 测查能力：思维</description>
+    </item>
+    
+    <item>
+      <title>吹气球（BART）</title>
+      <link>/post/%E5%90%B9%E6%B0%94%E7%90%83bart/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E5%90%B9%E6%B0%94%E7%90%83bart/</guid>
+      <description>基本信息 显示名称：吹气球 英文名称：BART 题目编号：05001 任务描述：测查自控力，特别是控制冲动的能力。 测查能力：自控力-控制冲动 交互界面</description>
+    </item>
+    
+    <item>
+      <title>思维转换（Shifting）</title>
+      <link>/post/%E6%80%9D%E7%BB%B4%E8%BD%AC%E6%8D%A2shifting/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E6%80%9D%E7%BB%B4%E8%BD%AC%E6%8D%A2shifting/</guid>
+      <description>基本信息 显示名称：思维转换 英文名称：Shifting 题目编号：03201 任务描述：测查思维力，特别是灵活切换思维方式的能力。 测查能力：思维力</description>
+    </item>
+    
+    <item>
+      <title>捉虫（CPT2）</title>
+      <link>/post/%E6%8D%89%E8%99%ABcpt2/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E6%8D%89%E8%99%ABcpt2/</guid>
+      <description>基本信息 显示名称：捉虫 英文名称：CPT2 题目编号：00903 参考模板：捉虫-初级，数感 任务描述：测查注意力，特别是长时间注意目标的能力。 测查</description>
+    </item>
+    
+    <item>
+      <title>方向达人（Flanker2）</title>
+      <link>/post/%E6%96%B9%E5%90%91%E8%BE%BE%E4%BA%BAflanker2/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E6%96%B9%E5%90%91%E8%BE%BE%E4%BA%BAflanker2/</guid>
+      <description>基本信息 显示名称：方向达人 英文名称：Flanker2 题目编号：00102 任务描述：测查自控力，特别是排除干扰的能力。 测查能力：自控力-控制冲</description>
+    </item>
+    
+    <item>
+      <title>记忆尾巴（RunningMemory）</title>
+      <link>/post/%E8%AE%B0%E5%BF%86%E5%B0%BE%E5%B7%B4runningmemory/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E8%AE%B0%E5%BF%86%E5%B0%BE%E5%B7%B4runningmemory/</guid>
+      <description>基本信息 显示名称：记忆尾巴 英文名称：RunningMemory 题目编号：05201 任务描述：测查自控力，特别是更新记忆内容的能力。 测查能力：</description>
+    </item>
+    
+    <item>
+      <title>小鱼饲养员（Flanker）</title>
+      <link>/post/%E5%B0%8F%E9%B1%BC%E9%A5%B2%E5%85%BB%E5%91%98flanker/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E5%B0%8F%E9%B1%BC%E9%A5%B2%E5%85%BB%E5%91%98flanker/</guid>
+      <description>基本信息 显示名称：小鱼饲养员 英文名称：Flanker 题目编号：00101 任务描述：测查自控力，特别是排除干扰的能力。 测查能力：自控力-控制冲</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/readme/</guid>
+      <description>爱智游设计文档 存储全部的爱智游设计文档的.Rmd源文件。
+国外出色经验 美国国立卫生研究院（National Institute of Health, NIH）已经在发展了一个成熟的工具箱，即NIH-toolbox。其中包含了认知、情绪、感觉和运动四个主要部分。
+在认知部分，他们根据以下的标准：
+  their importance to the course of development and aging; their significance for health and success in education and, in adults, for work; their validation with respect to known underlying brain mechanisms; and their ease of measurement and translation into brief test instruments.   确立了工具箱需要测量的5个认知子领域，分别是：
+ 执行功能和注意（Executive and Attention） 情景记忆（Episodic Memory） 语言（Language） 工作记忆（Working Memory） 加工速度（Processing Speed）  我们任务开发则确定的五个主要能力方面是反应力（即*加工速度*），注意力，自控力（自控力和注意力被他们综合为*执行功能和注意*，而*工作记忆*被我们称为信息更新而作为自控力的一个子能力），记忆力（即*情景记忆*），思维力（其中思维灵活性被他们放在了*执行功能*中；同时试图测查思维独创性，但是目前处于停滞阶段）。另外，在舒华老师团队的帮助下，我们也加入了语言部分六个题目，目前已经基本完善了；在赵晖老师团队的帮助下，我们也加入了数学部分数个题目，目前也基本完善了。</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>爱智游设计文档 国外出色经验 美国国立卫生研究院（National Institute of Health, NIH）已经在发展了一个成熟的工具箱，即NIH-toolbox。其中包含</description>
+    </item>
+    
+    <item>
+      <title>术语表</title>
+      <link>/glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/glossary/</guid>
+      <description>刺激 在屏幕上显示的图片、播放出来的声音等用户可以感知到并需要用户操作反应的物体或事件。程序需要测量用户对刺激的反应快慢和正确性。 线索 刺激的一</description>
+    </item>
+    
+    <item>
+      <title>标准</title>
+      <link>/standard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/standard/</guid>
+      <description>说明 为了便于机器或人之间进行交流，此处对数据交换定出一些标准格式，后面将严格依照这些标准进行数据交换。 标准列表 原始数据记录 把原始数据记录为j</description>
+    </item>
+    
+  </channel>
+</rss>
