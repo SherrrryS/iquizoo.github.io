@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/06901-filtering/</loc>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/03202-shifting2/</loc>
     <lastmod>2018-03-03T00:00:00+00:00</lastmod>
   </url>
@@ -63,6 +68,12 @@
   <url>
     <loc>/about/</loc>
     <lastmod>2018-03-06T13:53:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tasknames/%E5%B9%B2%E6%89%B0%E6%8E%92%E9%99%A4%E8%8C%83%E5%BC%8F/</loc>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
