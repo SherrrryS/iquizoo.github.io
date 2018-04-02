@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/game/balloon/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/06901-filtering/</loc>
-    <lastmod>2018-03-22T14:19:00+08:00</lastmod>
+    <lastmod>2018-04-02T15:05:09+08:00</lastmod>
   </url>
   
   <url>
     <loc>/post/06902-filtering2/</loc>
-    <lastmod>2018-03-22T14:19:00+08:00</lastmod>
+    <lastmod>2018-04-02T15:05:09+08:00</lastmod>
   </url>
   
   <url>
@@ -48,6 +53,12 @@
   </url>
   
   <url>
+    <loc>/game/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2018-03-06T13:53:17+08:00</lastmod>
   </url>
@@ -77,13 +88,19 @@
   
   <url>
     <loc>/tasknames/%E5%B9%B2%E6%89%B0%E6%8E%92%E9%99%A4%E8%8C%83%E5%BC%8F/</loc>
-    <lastmod>2018-03-22T14:19:00+08:00</lastmod>
+    <lastmod>2018-04-02T15:05:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tasknames/%E6%8C%81%E7%BB%AD%E6%80%A7%E6%93%8D%E4%BD%9C%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2018-03-19T16:19:21+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tasknames/%E6%95%B0%E5%AD%A6%E8%AE%A1%E7%AE%97/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

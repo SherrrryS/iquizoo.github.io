@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>速算大师（balloon）</title>
+      <link>/game/balloon/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/game/balloon/</guid>
+      <description>基本信息 交互界面 详细说明 数据记录 基本信息 显示名称：速算大师 英文名称：balloon 题目编号：78 任务描述：根据算术法则快速计算，训练更新加工</description>
+    </item>
+    
+    <item>
       <title>彩条达人（Filtering）</title>
       <link>/post/06901-filtering/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
