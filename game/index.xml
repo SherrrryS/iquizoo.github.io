@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C2游戏 on 爱智游设计文档中心</title>
+    <link>/game/</link>
+    <description>Recent content in C2游戏 on 爱智游设计文档中心</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 02 Apr 2018 17:03:41 +0800</lastBuildDate>
+    
+	<atom:link href="/game/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>森林中的萤火虫（VSTM）</title>
+      <link>/game/79-vstm/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/game/79-vstm/</guid>
+      <description>基本信息 交互界面 详细说明 刺激 操作 序列配置（参考标准中关于格式的说明） 配置参数 数据记录 基本信息 显示名称：森林中的萤火虫 英文名称：VSTM 题目编</description>
+    </item>
+    
+  </channel>
+</rss>
